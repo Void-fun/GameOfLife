@@ -46,7 +46,7 @@ int check_last_generations(int*** last, int** a) {
 					b++;
 				}
 			}
-		}
+		}// hhgghkuh
 		if (b == N * M) {
 			return 1;
 			break;
